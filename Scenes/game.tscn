@@ -634,7 +634,7 @@ autoplay = "new_animation"
 position = Vector2(1129, 7)
 
 [node name="Platform 7" parent="Platform" instance=ExtResource("7_qpllt")]
-position = Vector2(1067, -81)
+position = Vector2(1088, -81)
 
 [node name="Enemy" type="Node" parent="."]
 
